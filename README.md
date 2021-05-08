@@ -1,4 +1,6 @@
 # DotOS issue tracker
-[Open issue](https://github.com/DotOS/issues/issues/new/choose)
 
-#### Also you can request features
+* Report Bugs on Official releases
+* Also you can request features
+
+[Open issue](https://github.com/DotOS/issues/issues/new/choose)
