@@ -1,38 +1,65 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
+name: Bug reports
+about: Report problems related to our project
+title: Brief description of your problem
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+<!-- INSTRUCTIONS
+What not to report
+- Bugs in unofficial builds or anything not downloaded from our official portal
+- Missing Builds
+- Asking for device support
+- Feature requests
+- Older dotOS releases
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+Make sure not to use extra mods when reporting a problem (for example: Magisk, Substratum themes, Modules)
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+If you need help please check our Telegram group at https://t.me/DotOS
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+Anything between <!- - and - -> won't be shown when your issue is created. 
+-->
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+## Build date
+<!--- Anything that can help us identify the build you are using -->
+```
+Example: dotOS-R-v5.0.1-mido-OFFICIAL-20210418-0725
+```
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+## Expected Behavior
+<!--- Tell us what should happen -->
+```
+Edit here
+```
 
-**Additional context**
-Add any other context about the problem here.
+## Current Behavior
+<!--- Tell us what happens instead of the expected behavior -->
+```
+Edit here
+```
+
+## Possible Solution
+<!--- Not obligatory, but suggest a fix/reason for the bug, -->
+```
+Edit here
+```
+
+## Steps to Reproduce
+<!--- Provide a link to a live example, or an unambiguous set of steps to -->
+<!--- reproduce this bug. Include code to reproduce, if relevant -->
+```
+1.
+2.
+3.
+4.
+```
+
+<!-- THIS SECTION IS MANDATORY. If it is not filled out correctly, your issue will be marked as invalid.
+Example:
+/device mido (found at https://droidintime.com/devices)
+/version dot11
+/variant vanilla or gapps
+-->
+
+/device
+/version
+/variant
