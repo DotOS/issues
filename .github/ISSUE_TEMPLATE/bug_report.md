@@ -53,6 +53,7 @@ Edit here
 4.
 ```
 
+## Details
 <!-- THIS SECTION IS MANDATORY. If it is not filled out correctly, your issue will be marked as invalid.
 Example:
 /device mido (found at https://droidintime.com/devices)
